@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "name": "Satisfying your soul",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+    "img": "https://i.ibb.co/vQ6cmRV/service1-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Early Morning Coffee",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+    "img": "https://i.ibb.co/sVDD4Tn/service2.png"
+  },
+  {
+    "id": 3,
+    "name": "Coffee, Book and You",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+    "img": "https://i.ibb.co/p07F7h7/service3.png"
+  },
+  {
+    "id": 4,
+    "name": "Book is a real friend",
+
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+    "img": "https://i.ibb.co/mNdMftb/service4.png"
+  },
+  {
+    "id": 5,
+    "name": "Cozy day ",
+
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+    "img": "https://i.ibb.co/G7vN0HY/service5.png"
+  },
+  {
+    "id": 6,
+    "name": "Hello Morning Sunlight",
+
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+    "img": "https://i.ibb.co/Fm54VWt/service6.png"
+  },
+  {
+    "id": 7,
+    "name": "Place bring comfy",
+
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+    "img": "https://i.ibb.co/GRTF95r/service7.png"
+  },
+  {
+    "id": 8,
+    "name": "Take Away Available",
+
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+    "img": "https://i.ibb.co/m8y8Q5p/service8.png"
+  },
+  {
+    "id": 9,
+    "name": "Quality time at bookeria",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+    "img": "https://i.ibb.co/hsfGxKD/service9.png"
+  }
+]
