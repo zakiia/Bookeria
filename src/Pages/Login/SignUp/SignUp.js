@@ -32,11 +32,9 @@ const SignUp = () => {
       <h2 className="services-title mt-5">Please SignUp</h2>
       <Form onSubmit={handleSubmit}>
         <Form.Group className="mb-3" controlId="formBasicPassword">
-          <Form.Label>Name</Form.Label>
           <Form.Control ref={nameRef} type="Text" placeholder="Name" required />
         </Form.Group>
         <Form.Group className="mb-3" controlId="formBasicEmail">
-          <Form.Label>Email address</Form.Label>
           <Form.Control
             ref={emailRef}
             type="email"
@@ -46,7 +44,6 @@ const SignUp = () => {
         </Form.Group>
 
         <Form.Group className="mb-3" controlId="formBasicPassword">
-          <Form.Label>Password</Form.Label>
           <Form.Control
             ref={passwordRef}
             type="password"
