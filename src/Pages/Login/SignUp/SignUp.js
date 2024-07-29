@@ -8,6 +8,7 @@ import {
 import auth from "../../../firebase.init";
 import SocialLogin from "../SocialLogin/SocialLogin";
 import Loading from "../../Shared/Loading/Loading";
+import PageTitle from "../../Shared/PageTitle/PageTitle";
 
 const SignUp = () => {
   const location = useLocation();
@@ -47,6 +48,7 @@ const SignUp = () => {
 
   return (
     <div className="container w-50 mx-auto">
+      <PageTitle title="Sign Up"></PageTitle>
       <h2 className="services-title mt-5">Please SignUp</h2>
       <Form onSubmit={handleSubmit}>
         <Form.Group className="mb-3" controlId="formBasicPassword">
