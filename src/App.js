@@ -10,6 +10,7 @@ import Login from "./Pages/Login/Login/Login";
 import SignUp from "./Pages/Login/SignUp/SignUp";
 import Checkout from "./Pages/Checkout/Checkout/Checkout";
 import RequiredAuth from "./Pages/Login/RequiredAuth/RequiredAuth";
+import Blog from "./Pages/Blog/Blog";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
           path="/service/:serviceId"
           element={<ServiceDetail></ServiceDetail>}
         ></Route>
+        <Route path="/blog" element={<Blog></Blog>}></Route>
         <Route path="/about" element={<About></About>}></Route>
         <Route path="/login" element={<Login></Login>}></Route>
         <Route path="/signup" element={<SignUp></SignUp>}></Route>
